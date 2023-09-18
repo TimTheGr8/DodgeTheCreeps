@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckdnonghqmueh"
-path="res://.godot/imported/enemySwimming_1.png-661aad3e0f32a9259d5ac88655a47f01.ctex"
+path="res://.godot/imported/enemySwimming_1.png-38d6143648fdf2f6247595f29d005e16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Enemy/enemySwimming_1.png"
-dest_files=["res://.godot/imported/enemySwimming_1.png-661aad3e0f32a9259d5ac88655a47f01.ctex"]
+source_file="res://Art/Enemy/enemySwimming_1.png"
+dest_files=["res://.godot/imported/enemySwimming_1.png-38d6143648fdf2f6247595f29d005e16.ctex"]
 
 [params]
 
